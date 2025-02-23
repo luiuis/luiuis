@@ -24,7 +24,7 @@ Este repositorio incluye:
 
 ## Confirmar y Subir los Cambios a GitHub  
 
-git add .
-git commit -m "Actualizado README.md con información del proyecto"
-git push origin main
+- git add .
+- git commit -m "Actualizado README.md con información del proyecto"
+- git push origin main
 
